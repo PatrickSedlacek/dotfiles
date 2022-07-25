@@ -189,6 +189,6 @@ bar {
 exec --no-startup-id "nitrogen --restore"
 
 #Favorite Apps
-bindsym $mod+Return exec "xfce4-terminal"
+bindsym $mod+Return exec "alacritty"
 bindsym $mod+Shift+f exec "firefox"
 
