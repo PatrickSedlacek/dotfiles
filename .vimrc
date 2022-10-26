@@ -10,13 +10,10 @@ call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'gmarik/Vundle.vim'
-Plugin 'tmhedberg/SimpylFold'
 Plugin 'vim-scripts/indentpython.vim'
-Plugin 'Valloric/YouCompleteMe'
 Plugin 'vim-syntastic/syntastic'
 Plugin 'jiangmiao/auto-pairs'
 Plugin 'sheerun/vim-polyglot'
-Plugin 'mattn/emmet-vim'
 Plugin 'jeetsukumaran/vim-pythonsense'
 call vundle#end()            " required
 filetype plugin indent on    " required
